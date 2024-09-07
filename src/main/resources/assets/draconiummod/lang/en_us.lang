@@ -3,8 +3,8 @@ death.attack.fakeWater=%1$s est tombé(e) dans de l'eau empoisonnée.
 death.attack.fakeWater.player=%1$s est tombé(e) dans de l'eau empoisonnée en combattant %2$s.
 
 # FLUIDES
-tile.fake_water.name=Fausse eau block
-fluid.fake_water.name=Fausse eau
+tile.fake_water.name=Fake water block
+fluid.fake_water.name=Fake water
 
 # ARMURE EN AZURITE
 item.azurite_helmet.name=Casque en Azurite
